@@ -9,6 +9,10 @@ the main logic that is used in this program is loops : while ,do while lopps are
 then conditional statements like if and switch  are used for error checking and menu selection . all of these commamnds 
 helped in the execution of the program.
 HOW TO USE:
+![ss 1](https://github.com/user-attachments/assets/bd7a4044-2092-4ed3-be44-1629fd003593)
+First we give the input of subject, time studied,and difficulty level of the subject we wannt to track the consistency of after that the program logic is applied on the 
+given information and analyze it to execute the result accordingly.
 
-
+![ss 3 0](https://github.com/user-attachments/assets/271e0ab6-564a-487a-9860-4995f62d6179)
+here is the clear example of the program calculating the given input and executing the result based on the input.
 
