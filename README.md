@@ -1,12 +1,7 @@
-
-This is a small program I made in C to track my study habits. I noticed sometimes I study a lot but still struggle with some subjects so I wanted to see how consistent I really am.
-
-You can add your daily study time, difficulty, and focus for each subject. The program will give you a simple score and tell you which subjects you are spending too little or too much time on.
-
-I wrote this codw to practice C and to understand my own study patterns. It helped me figure out where I need to focus more and stay consistent.
-
-TECHNIQUES USED:
-I used structures to organize daily study records, arrays to store multiple entries, functions to keep the code organized, loops and conditionals 
-for calculations and analysis and file handling to save data.
+STUDY HABIT ANALYZER
+When I started my preperation for SAT I found it difficult to track my performance as I had to focus on two main sections maths and english. 
+One day, I  came up with the idea of using my C language skills to develop a  program called Study Habit Analyzer. I learnt the basics pf C lanuage in 10th grade and then developed a stronger command of C during 12th grade. Now i used them practically to build this program using 
+some basic concepts to strenghthen my knowledge .
+TECHNIQUE USED
 
 
